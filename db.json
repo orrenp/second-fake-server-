@@ -24,7 +24,7 @@
       "description": "Smile",
       "id": 1,
       "name": "Smile #1",
-      "image": "https://nft-meta-data.s3.amazonaws.com/16.png"
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
     },
     {
       "attributes": [
@@ -68,7 +68,7 @@
       "description": "16 Smiles",
       "id": 0,
       "name": "Smiles #0",
-      "image": "https://nft-meta-data.s3.amazonaws.com/6.png"
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
     }
   ]
 }
